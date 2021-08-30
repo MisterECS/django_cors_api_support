@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+cors_api_support.egg-info/PKG-INFO
+cors_api_support.egg-info/SOURCES.txt
+cors_api_support.egg-info/dependency_links.txt
+cors_api_support.egg-info/requires.txt
+cors_api_support.egg-info/top_level.txt
+migrations/__init__.py
